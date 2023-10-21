@@ -33,4 +33,4 @@ The model showed impressive results, particularly in images featuring grass, tre
 Given more resources, the model would be trained for at least 100 epochs with a larger dataset. A graphical user interface for user interaction and support for variable-sized input images are potential enhancements.
 
 ## Results
-![Results]([https://imageupload.io/ib/QnRv5acjekpRSwc_1697467936.png](https://imageupload.io/ib/F9Hd601kuCLi1xd_1697873228.jpg)https://imageupload.io/ib/F9Hd601kuCLi1xd_1697873228.jpg)
+![Results](https://imageupload.io/ib/F9Hd601kuCLi1xd_1697873228.jpg)
